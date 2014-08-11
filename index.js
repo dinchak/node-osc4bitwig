@@ -1,5 +1,5 @@
 /**
- * @module  node-bitwigosc
+ * @module node-osc4bitwig
  * @author Tom Dinchak <dinchak@gmail.com>
  */
 
