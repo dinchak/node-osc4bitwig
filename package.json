@@ -1,0 +1,34 @@
+{
+  "name": "osc4bitwig",
+  "version": "0.0.1",
+  "description": "node.js integration with Bitwig Studio via OSC4Bitwig",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitwig",
+    "osc",
+    "osc4bitwig"
+  ],
+  "author": {
+    "name": "tom dinchak",
+    "email": "dinchak@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dinchak/node-osc4bitwig.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "midi": "^0.9.0",
+    "osc-emitter": "^1.0.0",
+    "osc-receiver": "^1.1.0",
+    "underscore": "^1.6.0"
+  },
+  "devDependencies": {
+    "jsdoc": "3.3.0-alpha2",
+    "jsdoc-githubify": "^0.1.3"
+  }
+}
